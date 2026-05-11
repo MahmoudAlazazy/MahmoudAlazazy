@@ -4,6 +4,8 @@
 
 I build scalable, high-performance Flutter applications with clean architecture and a strong focus on real-world functionality and smooth user experience.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mohamed-ahmed-20b007367)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Du55ZH7Wp/)
 ---
 
 ##  Tech Stack & Skills
