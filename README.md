@@ -15,6 +15,7 @@ I build scalable, high-performance Flutter applications with clean architecture 
     <img src='https://cdn.simpleicons.org/facebook/white' alt='facebook' height='40'>
   </a>
 </p>
+
 ##  Tech Stack & Skills
 
 ---
