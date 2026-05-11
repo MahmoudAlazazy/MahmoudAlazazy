@@ -5,14 +5,16 @@
 I build scalable, high-performance Flutter applications with clean architecture and a strong focus on real-world functionality and smooth user experience.
 
 <p align="left">
+  <a href="https://github.com/MahmoudAlazazy">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+  </a>
   <a href="https://www.linkedin.com/in/mahmoud-mohamed-ahmed-20b007367">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
   </a>
   <a href="https://www.facebook.com/share/1Du55ZH7Wp/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
   </a>
 </p>
-
 ##  Tech Stack & Skills
 
 ---
