@@ -6,13 +6,13 @@ I build scalable, high-performance Flutter applications with clean architecture 
 
 <p align="left">
   <a href="https://github.com/MahmoudAlazazy">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: invert(1)'>
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-mohamed-ahmed-20b007367">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(1)'>
   </a>
   <a href="https://www.facebook.com/share/1Du55ZH7Wp/">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='filter: invert(1)'>
   </a>
 </p>
 ##  Tech Stack & Skills
